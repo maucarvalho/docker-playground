@@ -1,6 +1,5 @@
 # action.yml
 name: 'Teste do Maurício'
-description: 'Greet someone and record the time'
 
 on: [push]
 jobs:
