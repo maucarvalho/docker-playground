@@ -14,7 +14,7 @@ WORKDIR /var/www/html/
 USER root
 
 LABEL description="Webserver"
-LABEL version="2.0.0"
+LABEL version="1.0.0"
 
 VOLUME /var/www/html/
 EXPOSE 80
