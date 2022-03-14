@@ -21,3 +21,5 @@ EXPOSE 80
 
 ENTRYPOINT ["/usr/sbin/apachectl"]
 CMD ["-D", "FOREGROUND"]
+
+MAINTAINER ["MAURICIO"]
